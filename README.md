@@ -12,7 +12,7 @@
 #### 我的博客 💎 
 [写作](https://blog.fzf404.top/)
 [笔记](https://note.fzf404.top/)
-> 不要乱扫我的子域名🤣
+> 大佬们不要乱扫我的子域名🤣
 <!--
 **fzf404/fzf404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
