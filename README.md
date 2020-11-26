@@ -1,5 +1,18 @@
-### Hi there 👋
+### 你好呀 👋
 
+#### 欢迎访问我的Github主页 🎉
+
+> 虽然没什么拿得出手的项目QWQ
+
+- 🎈 Arch党(的分支Manjaro
+- 🎨 动画专业大一新生
+- 🎯 爱好比较多
+- 🛒 啥活都整
+
+#### 我的博客 💎 
+[写作](https://blog.fzf404.top/)
+[笔记](https://note.fzf404.top/)
+> 不要乱扫我的子域名🤣
 <!--
 **fzf404/fzf404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
