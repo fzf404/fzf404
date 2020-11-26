@@ -11,9 +11,8 @@
 
 #### 我的博客 💎 
 
-[写作](https://blog.fzf404.top/)
-
-[笔记](https://note.fzf404.top/)
+[💡 写作](https://blog.fzf404.top/)
+[📘 笔记](https://note.fzf404.top/)
 
 > 大佬们不要乱扫我的子域名🤣
 
