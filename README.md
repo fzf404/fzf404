@@ -14,7 +14,7 @@
 - 🎯 爱好比较多
 - 🛒 啥活都整
 
-#### 我的博客 💎 
+#### [我的博客](https://fzf404.top) 💎 
 
 [💡 写作](https://blog.fzf404.top/)
 [📘 笔记](https://note.fzf404.top/)
