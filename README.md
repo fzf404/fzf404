@@ -1,6 +1,6 @@
 <a href="https://fzf404.top/" target="_blank">
 <img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&hide_border=true&icon_color=33a6b8&title_color=184f57">
+     src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 </a>
 
 ### 你好呀 👋
