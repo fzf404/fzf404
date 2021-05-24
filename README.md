@@ -1,6 +1,8 @@
-<a href="https://fzf404.top/" target="_blank">
+<a href="https://www.fzf404.top/" target="_blank">
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
+<img align="right"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </a>
 
 ### 你好呀 👋
@@ -14,7 +16,7 @@
 - 🎯 爱好比较多
 - 🛒 啥活都整
 
-#### [我的博客](https://fzf404.top) 💎 
+#### [我的博客](https://www.fzf404.top) 💎 
 
 [💡 写作](https://blog.fzf404.top/)
 [📘 笔记](https://note.fzf404.top/)
