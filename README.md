@@ -1,8 +1,8 @@
-<img align="right"
+<img style="float: right"
      src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
 <br/>
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img style="float: right"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzf404&layout=compact">
 
 
 ### 你好呀 👋
