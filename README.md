@@ -1,9 +1,8 @@
-<a href="https://www.fzf404.top/" target="_blank">
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
 <img align="right"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</a>
+
 
 ### 你好呀 👋
 
