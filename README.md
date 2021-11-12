@@ -8,12 +8,12 @@
 
 > 虽然没什么拿得出手的项目QWQ
 
-- 🎈 WSL吹(弃坑Manjaro了
+- 🎈 Mac吹(弃坑Manjaro/WSL, Mac绝对是我用过最好用的电脑
 - 🎨 大二动画专业
 - 🎯 爱好比较多
 - 🛒 啥活都整
 
-#### [我的博客](https://www.fzf404.top) 💎 
+#### [我的首页](https://www.fzf404.top) 💎 
 
 [💡 写作](https://blog.fzf404.top/)
 [📘 笔记](https://note.fzf404.top/)
