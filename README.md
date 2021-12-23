@@ -59,8 +59,10 @@
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Fish](https://img.shields.io/static/v1?style=for-the-badge&message=Fish&color=222222&logo=Shell&logoColor=FFD500&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)
+![Chocolatey](https://img.shields.io/static/v1?style=for-the-badge&message=Chocolatey&color=222222&logo=Chocolatey&logoColor=80B5E3&label=)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
