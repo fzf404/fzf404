@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzf404&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzf404&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
 ### 你好呀 👋
 
