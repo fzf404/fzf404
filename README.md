@@ -1,5 +1,6 @@
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fzf404&show_icons=true&theme=tokyonight">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzf404&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight">
 
 ### 你好呀 👋
 
@@ -53,7 +54,6 @@
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![Nest](https://img.shields.io/badge/NestJS-e0234d?style=for-the-badge&logo=nestjs&logoColor=white)
-
 
 - 工具
 
