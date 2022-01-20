@@ -16,7 +16,7 @@
 ### 我的网站 🕸
 
 [💎 我的首页](https://www.fzf404.top)
-[💡 写作](https://note.fzf404.top/)
+[💡 笔记](https://note.fzf404.top/)
 
 ### 用过的东西 🍻
 
