@@ -16,8 +16,8 @@
 ### 我的网站 🕸
 
 [😋 关于我](https://www.fzf404.top/#/about)
-[💎 我的首页](https://www.fzf404.top)
-[💡 笔记](https://note.fzf404.top/)
+[💎 主页](https://www.fzf404.top)
+[💡 博客](https://blog.fzf404.top/)
 
 ### 用过的东西 🍻
 
