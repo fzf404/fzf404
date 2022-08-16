@@ -15,9 +15,9 @@
 
 ### 我的网站 🕸
 
-[😋 关于我](https://www.fzf404.top/#/about)
-[💎 主页](https://www.fzf404.top)
-[💡 博客](https://blog.fzf404.top/)
+[😋 关于我](https://www.fzf404.art/#/about)
+[💎 主页](https://www.fzf404.art)
+[💡 博客](https://blog.fzf404.art/)
 
 ### 喜欢东西 🍻
 
