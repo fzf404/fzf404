@@ -4,18 +4,12 @@
 
 ### 你好呀 👋
 
-#### 欢迎访问我的 Github 主页 🎉
-
-> 虽然没什么拿得出手的项目 QWQ
-
-- 🎈 修炼中的全栈开发者
-- 🎯 爱好比较多
-- 🛒 啥活都整
+> 欢迎访问我的 Github 主页 🎉
 
 ### 我的网站 🕸
 
 [😋 关于我](https://www.fzf404.art/#/about)
-[💎 主页](https://www.fzf404.art)
+[💎 主页](https://www.fzf404.art/)
 [💡 博客](https://blog.fzf404.art/)
 
 ### 喜欢东西 🍻
@@ -25,7 +19,7 @@
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=222222&logo=Python&logoColor=3776AB&label=)
 
 - 前端
 
