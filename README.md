@@ -2,26 +2,26 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzf404&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
-### 你好呀 👋
+## 你好呀 👋
 
 > 欢迎访问我的 Github 主页 🎉
 
-### 我的网站 🕸
+## 我的网站 🕸
 
-[😋 关于我](https://www.fzf404.art/#/about)
 [💎 主页](https://www.fzf404.art/)
+[🔥 笔记](https://note.fzf404.art/)
 [💡 博客](https://blog.fzf404.art/)
 
-### 喜欢东西 🍻
+## 喜欢东西 🍻
 
-- 编程语言
+### 编程语言
 
 ![Golang](https://img.shields.io/static/v1?style=for-the-badge&message=Golang&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=222222&logo=Python&logoColor=3776AB&label=)
 
-- 前端
+### 前端
 
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
@@ -34,7 +34,7 @@
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 
-- 后端
+### 后端
 
 ![Gin](https://img.shields.io/static/v1?style=for-the-badge&message=Gin&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
@@ -45,7 +45,7 @@
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 
-- 工具
+### 工具
 
 ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
@@ -56,7 +56,7 @@
 ![Chocolatey](https://img.shields.io/static/v1?style=for-the-badge&message=Chocolatey&color=222222&logo=Chocolatey&logoColor=80B5E3&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
-- 系统
+### 系统
 
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
