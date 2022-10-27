@@ -6,7 +6,7 @@
 
 欢迎访问我的 Github 主页 
 
-## GPG ⚡
+### GPG
 
 `B9BD2B8FDC7BF5F3A177004EAFBF7DD903626A52`
 
