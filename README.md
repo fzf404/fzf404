@@ -10,7 +10,7 @@
 
 ## 我的网站 🎉
 
-[💎 主页](https://fzf404.art/)
+[💎 主页](https://www.fzf404.art/)
 [🔥 笔记](https://note.fzf404.art/)
 [💡 博客](https://blog.fzf404.art/)
 
