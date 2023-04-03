@@ -10,5 +10,5 @@
 
 ## 代码统计 🍻
 
-![overview](https://cdn.jsdelivr.net/gh/fzf404/github-stats@output/generated/overview.svg)
-![language](https://cdn.jsdelivr.net/gh/fzf404/github-stats@output/generated/languages.svg)
+![overview](https://cdn.fzf404.art/github-stats@output/generated/overview.svg)
+![language](https://cdn.fzf404.art/github-stats@output/generated/languages.svg)
