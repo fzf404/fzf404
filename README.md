@@ -1,12 +1,12 @@
-## 你好呀 👋
+## 👋 - Hello - 你好
 
-欢迎访问我的 Github 主页！
+Nice to meet you! - 很高兴遇见你！
 
-## 我的网站 🗺️
+## 🌐 - Website - 网站 
 
-[🏠 主页](https://fzf404.art/) ｜ [✍️ 博客](https://blog.fzf404.art/) ｜ [📓 笔记](https://note.fzf404.art/)
+[🏠 - Home - 主页](https://fzf404.art/) ｜ [✍️ - Blog - 博客](https://blog.fzf404.art/) ｜ [📓 - Note - 笔记](https://note.fzf404.art/)
 
-## 代码统计 👨‍💻
+## 👨‍💻 - Statistics - 统计 
 
 ![overview](https://cdn.fzf404.art/github-stats@output/generated/overview.svg)
 ![language](https://cdn.fzf404.art/github-stats@output/generated/languages.svg)
