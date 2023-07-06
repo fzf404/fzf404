@@ -1,12 +1,12 @@
-## 👋 Hello 你好
+## 👋 你好 Hello
 
-Nice to meet you! 很高兴遇见你！
+很高兴遇见你！Nice to meet you!
 
-## 🌐 Website 网站 
+## 🌐 网站 Website
 
-[🏠 Home 主页](https://fzf404.art/) ｜ [✍️ Blog 博客](https://blog.fzf404.art/) ｜ [📓 Note 笔记](https://note.fzf404.art/)
+[🏠 主页 Home ](https://fzf404.art/) ｜ [✍️ 博客 Blog](https://blog.fzf404.art/) ｜ [📓 笔记 Note](https://note.fzf404.art/)
 
-## 👨‍💻 Statistics 统计 
+## 👨‍💻 统计 Statistics
 
 ![overview](https://cdn.fzf404.art/github-stats@output/generated/overview.svg)
 ![language](https://cdn.fzf404.art/github-stats@output/generated/languages.svg)
