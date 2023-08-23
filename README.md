@@ -8,5 +8,5 @@ Nice to meet you ( 很高兴遇见你 )
 
 ## 👨‍💻 Statistics ( 统计 )
 
-![overview](https://cdn.fzf404.art/github-stats@output/generated/overview.svg)
-![language](https://cdn.fzf404.art/github-stats@output/generated/languages.svg)
+![overview](https://cdn.fzf404.art/gh/github-stats@output/generated/overview.svg)
+![language](https://cdn.fzf404.art/gh/github-stats@output/generated/languages.svg)
