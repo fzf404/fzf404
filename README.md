@@ -1,6 +1,6 @@
 ## 👋 Hello ( 你好 )
 
-Nice to meet you ( 很高兴遇见你 )
+I'm very happy to meet you ( 很高兴遇见你 )
 
 ## 🌐 Website ( 网站 )
 
